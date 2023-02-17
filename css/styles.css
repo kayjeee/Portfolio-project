@@ -121,6 +121,7 @@ i.cross-icon.fa-solid.fa-times {
   height: 100vh;
   object-fit: cover;
   position: relative;
+  margin-top: 51px;
 }
 
 .headline-container {
@@ -682,8 +683,13 @@ p#modal-close {
     height: 0;
     background: none;
     display: flex;
+    margin: 0.1rem 60rem;
     padding-bottom: 3rem;
     position: fixed;
+  }
+
+  .nav-bar {
+    display: inline-block;
   }
 
   /* Cards */
