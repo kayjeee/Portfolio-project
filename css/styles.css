@@ -577,6 +577,8 @@ textarea {
   border-radius: 16px;
   padding-bottom: 20px;
   display: none;
+  overflow: hidden;
+  overflow-x: scroll;
 }
 
 .hide-lang {
@@ -670,7 +672,12 @@ p#modal-close {
     display: none;
   }
 
+  .nav-bar {
+    position: fixed;
+  }
+
   ul.navigation-bar.nav-menu {
+    margin-top: 35rem;
     width: 0;
     height: 0;
     background: none;
@@ -870,6 +877,8 @@ p#modal-close {
     border-radius: 16px;
     padding-bottom: 20px;
     display: none;
+    overflow: hidden;
+    overflow-x: scroll;
   }
 
   .img-popup {
