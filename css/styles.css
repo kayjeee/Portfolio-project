@@ -683,13 +683,8 @@ p#modal-close {
     height: 0;
     background: none;
     display: flex;
-    margin: 0.1rem 60rem;
     padding-bottom: 3rem;
     position: fixed;
-  }
-
-  .nav-bar {
-    display: inline-block;
   }
 
   /* Cards */
