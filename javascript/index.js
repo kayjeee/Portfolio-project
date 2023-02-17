@@ -34,8 +34,8 @@ const portfolioCards = [
     image1: 'images/tonic.svg',
     description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     languages: ['html', 'css', 'JavaScript'],
-    liveLink: 'https://graycemuthui.github.io/Microverse-Portfolio/',
-    github: 'https://github.com/Graycemuthui/Microverse-Portfolio',
+    liveLink: 'https://github.com/kayjeee/Portfolio-project',
+    github: 'https://github.com/kayjeee/Portfolio-project',
   },
   {
     title: 'Multi-Post Stories',
@@ -44,8 +44,8 @@ const portfolioCards = [
     image1: 'images/multidesktop.svg',
     description: 'Experimental content creation feature that allows users to add to anexisting story over the course of a day without spamming their friends.',
     languages: ['html', 'css', 'JavaScript'],
-    liveLink: 'https://graycemuthui.github.io/Microverse-Portfolio/',
-    github: 'https://github.com/Graycemuthui/Microverse-Portfolio',
+    liveLink: 'https://github.com/kayjeee/Portfolio-project/',
+    github: 'https://github.com/kayjeee/Portfolio-project',
   },
   {
     title: 'Tonic',
@@ -54,8 +54,8 @@ const portfolioCards = [
     image1: 'images/tonicdesktop.svg',
     description: "Exploring the future of media in Facebook's first Virtual Realityapp; a place to discover and enjoy 360 photos and videos on Gear VR.",
     languages: ['html', 'css', 'JavaScript'],
-    liveLink: 'https://graycemuthui.github.io/Microverse-Portfolio/',
-    github: 'https://github.com/Graycemuthui/Microverse-Portfolio',
+    liveLink: 'https://github.com/kayjeee/Portfolio-project/',
+    github: 'https://github.com/kayjeee/Portfolio-project',
   },
   {
     title: 'Multi-Post Stories',
@@ -64,8 +64,8 @@ const portfolioCards = [
     image1: 'images/availability.svg',
     description: 'A smart assistant to make driving more safe, efficient, and fun byunlocking your most expensive computer: your car.',
     languages: ['html', 'css', 'JavaScript'],
-    liveLink: 'https://graycemuthui.github.io/Microverse-Portfolio/',
-    github: 'https://github.com/Graycemuthui/Microverse-Portfolio',
+    liveLink: 'https://github.com/kayjeee/Portfolio-project',
+    github: 'https://github.com/kayjeee/Portfolio-project',
   },
 ];
 
