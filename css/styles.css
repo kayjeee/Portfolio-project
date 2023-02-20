@@ -121,7 +121,6 @@ i.cross-icon.fa-solid.fa-times {
   height: 100vh;
   object-fit: cover;
   position: relative;
-  margin-top: 51px;
 }
 
 .headline-container {
@@ -578,8 +577,6 @@ textarea {
   border-radius: 16px;
   padding-bottom: 20px;
   display: none;
-  overflow: hidden;
-  overflow-x: scroll;
 }
 
 .hide-lang {
@@ -673,18 +670,18 @@ p#modal-close {
     display: none;
   }
 
-  .nav-bar {
-    position: fixed;
-  }
-
   ul.navigation-bar.nav-menu {
-    margin-top: 35rem;
     width: 0;
     height: 0;
     background: none;
     display: flex;
+    margin: 0.1rem 60rem;
     padding-bottom: 3rem;
     position: fixed;
+  }
+
+  .nav-bar {
+    display: inline-block;
   }
 
   /* Cards */
@@ -873,8 +870,6 @@ p#modal-close {
     border-radius: 16px;
     padding-bottom: 20px;
     display: none;
-    overflow: hidden;
-    overflow-x: scroll;
   }
 
   .img-popup {
@@ -1001,4 +996,4 @@ p#modal-close {
     justify-content: center;
     align-items: center;
   }
-}
+
