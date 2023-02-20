@@ -51,11 +51,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Portfolio-project <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Portfolio-project** is a project for web designer Portfolio
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -187,9 +187,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+>Follow my Github and give this page a star 
 
-If you like this project...
+If you like this project thank you for your support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
