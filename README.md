@@ -169,7 +169,9 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-N/A
+- **[using tailwind css ]**
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
