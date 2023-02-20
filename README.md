@@ -25,14 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -111,6 +103,7 @@ After you're finished please remove all the comments and instructions!
 > Add a link to your deployed project.
 
 N/A
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -123,15 +116,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+N/A
 
 ### Setup
 
@@ -174,15 +159,10 @@ N/A
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@kayjeee](https://github.com/kayjeee)
+- Twitter: [@schoolspun](https://twitter.com/schoolspun))
+- LinkedIn: [@kagiso-sebogodi](https://www.linkedin.com/in/kagiso-sebogodi/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,11 +170,7 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,7 +200,7 @@ If you like this project...
 
 > I Give credit to Micro Verse for inspiring this project
 
-I would like to thank my partner in microverse for helping out in completing this master piece
+I would like to thank my partnerS in microverse for helping out in completing this master piece
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
