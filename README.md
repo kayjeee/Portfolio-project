@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**Portfolio-project** is a...
+**Portfolio-project** is a project for web designer Portfolio
 
 ## 🛠 Built With <a name="built-with"></a>
 
