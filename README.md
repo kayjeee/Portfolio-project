@@ -47,7 +47,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello-Microverse <a name="about-project"></a>
+# 📖Microverse-Portfolio <a name="about-project"></a>
 
 
 **Microverse-Portfolio** is a simple activity on the Microvese Program,
@@ -116,7 +116,7 @@ Example command:
 
 Clone this repository to your desired folder do:
 
-git clone git@github.com:kayjeee/Hello-Microverse-two.git
+git clone git@github.com:kayjeee/Microverse-Portfolio.git
 
 
 
