@@ -646,10 +646,9 @@ p#modal-close {
 /* Desktop Version */
 @media screen and (min-width: 768px) {
   .headline-section {
-    height: 100vh;
+    height: 110vh;
     background: var(--white) url(../images/background.svg);
-    object-fit: cover;
-    background-size: 100%;
+    background-size: 90%;
     background-repeat: no-repeat;
     border-bottom-left-radius: 75px;
     display: flex;
@@ -996,4 +995,4 @@ p#modal-close {
     justify-content: center;
     align-items: center;
   }
-
+}

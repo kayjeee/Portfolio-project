@@ -144,8 +144,6 @@ N/A
 
 N/A
 
-### Deployment
-
 N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,38 +159,6 @@ N/A
 - GitHub: [@kayjeee](https://github.com/kayjeee)
 - Twitter: [@schoolspun](https://twitter.com/schoolspun))
 - LinkedIn: [@kagiso-sebogodi](https://www.linkedin.com/in/kagiso-sebogodi/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-N/A
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
->Follow my Github and give this page a star 
-
-If you like this project thank you for your support
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>

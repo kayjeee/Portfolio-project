@@ -35,7 +35,7 @@ const portfolioCards = [
     description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
     languages: ['html', 'css', 'JavaScript'],
     liveLink: 'https://github.com/kayjeee/Portfolio-project',
-    github: 'https://github.com/kayjeee/Portfolio-project',
+    github: 'https://github.com/kayjeee/',
   },
   {
     title: 'Multi-Post Stories',
