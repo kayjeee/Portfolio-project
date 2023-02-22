@@ -565,7 +565,7 @@ textarea {
 .popup {
   margin: 10px 0;
   position: fixed;
-  top: -35%;
+  top: -40%;
   left: 50%;
   transform: translate(-50%, 50%);
   width: 80%;
@@ -784,7 +784,6 @@ p#modal-close {
     flex-wrap: wrap;
   }
 
- 
   /* Modal Window Desktop */
 
   .popup-overlay {
